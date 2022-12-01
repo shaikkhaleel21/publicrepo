@@ -1,2 +1,8 @@
 this is second file
 this is second line
+//tharun
+
+function test(){
+         console.log('This is a tested file');
+}
+
